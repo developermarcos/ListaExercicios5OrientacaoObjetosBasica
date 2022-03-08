@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeLata.ConsoleApp", "Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaDuasProvasConsoleApp", "MediaDuasProvasConsoleApp\MediaDuasProvasConsoleApp.csproj", "{4914BBA9-97BC-4D90-9665-DCDDD834E123}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaHarmonica.ConsoleApp", "MediaHarmonica.ConsoleApp\MediaHarmonica.ConsoleApp.csproj", "{B0F88DAC-F1E9-4A0E-BE68-B9BD0A328ED1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4914BBA9-97BC-4D90-9665-DCDDD834E123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4914BBA9-97BC-4D90-9665-DCDDD834E123}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4914BBA9-97BC-4D90-9665-DCDDD834E123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F88DAC-F1E9-4A0E-BE68-B9BD0A328ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F88DAC-F1E9-4A0E-BE68-B9BD0A328ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F88DAC-F1E9-4A0E-BE68-B9BD0A328ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F88DAC-F1E9-4A0E-BE68-B9BD0A328ED1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
